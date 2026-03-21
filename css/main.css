@@ -1,0 +1,1183 @@
+* {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    ol,
+    ul,
+    menu {
+      padding-inline-start: 0;
+      list-style: none;
+    }
+
+    ol li::marker,
+    ul li::before {
+      letter-spacing: 0;
+    }
+
+    .scroll-container>div {
+      width: 100%;
+    }
+
+    .container>div {
+      width: 100%;
+    }
+
+    .Pixso-canvas-0_1>div {
+      width: 100%;
+    }
+
+    html {
+      width: 100%;
+      height: 100%;
+    }
+
+    body {
+      width: 100%;
+      height: 100%;
+      margin: 0;
+      background-color: white;
+    }
+
+    span {
+      word-break: break-word;
+    }
+
+    .container {
+      width: 100%;
+      height: 100%;
+    }
+
+    .text-body-1-1_2 {
+      font-size: 20px;
+      font-family: "Lato-Regular";
+      font-weight: Regular;
+      letter-spacing: 0em
+    }
+
+    .scroll-container {
+      height: 100%;
+      width: 100%;
+      overflow: auto;
+    }
+
+    .Pixso-canvas-0_1 {
+      width: 100%;
+      height: 100%;
+      position: relative;
+      flex-shrink: 0;
+    }
+
+    .Pixso-frame-1_3 {
+      width: 2114px;
+      height: 5099px;
+      overflow: hidden;
+      position: relative;
+      flex-shrink: 0;
+      display: flex;
+      align-items: flex-start;
+      background-color: rgba(255, 255, 255, 1);
+    }
+
+    .frame-content-1_3 {
+      display: flex;
+      flex-direction: column;
+      gap: 168px;
+      align-items: flex-start;
+      padding: 1px 0px 0px 0px;
+      width: 100%;
+      height: 100%;
+      position: relative;
+    }
+
+    .Pixso-frame-7_4 {
+      width: auto;
+      height: auto;
+      position: relative;
+      flex-shrink: 0;
+      display: flex;
+      flex-direction: column;
+      gap: 120px;
+      align-items: flex-start;
+    }
+
+    .Pixso-frame-7_3 {
+      width: auto;
+      height: auto;
+      position: relative;
+      flex-shrink: 0;
+      display: flex;
+      flex-direction: column;
+      gap: 51px;
+      align-items: flex-start;
+    }
+
+    .Pixso-frame-7_1 {
+      width: auto;
+      height: auto;
+      position: relative;
+      flex-shrink: 0;
+      display: flex;
+      flex-direction: column;
+      gap: 169px;
+      align-items: flex-start;
+    }
+
+    .Pixso-group-1_109 {
+      width: 2114px;
+      height: 980px;
+      position: relative;
+      flex-shrink: 0;
+    }
+
+    .Pixso-vector-1_18 {
+      width: 1920px;
+      height: 895px;
+      background-image: url(./image/Vector_1_18.png);
+      background-size: 100% 100%;
+      background-repeat: no-repeat;
+      position: absolute;
+      left: 0px;
+      top: 85px;
+    }
+
+    .Pixso-group-1_23 {
+      width: 440px;
+      height: 384px;
+      position: absolute;
+      left: 275px;
+      top: 260px;
+    }
+
+    .Pixso-text-1_24 {
+      font-size: 65px;
+      font-family: "Georgia-Bold";
+      font-weight: Bold;
+      letter-spacing: 0em;
+      color: rgba(1, 153, 109, 1);
+      width: auto;
+      height: auto;
+      position: absolute;
+      left: 0px;
+      top: 0px;
+      white-space: pre;
+      flex-grow: 0;
+    }
+
+    .Pixso-text-1_25 {
+      color: rgba(72.25, 72.25, 72.25, 1);
+      width: 420px;
+      height: 123px;
+      position: absolute;
+      left: 0px;
+      top: 178px;
+    }
+
+    .Pixso-frame-1_26 {
+      width: 100%;
+      height: 100%;
+      position: relative;
+      display: flex;
+      flex-direction: column;
+      gap: 30px;
+      align-items: center;
+      padding: 20px 50px 20px 50px;
+      border-radius: 4px 4px 4px 4px;
+      background-color: rgba(1, 153, 109, 1);
+    }
+
+    .stroke-wrapper-1_26 {
+      position: absolute;
+      left: 0px;
+      top: 319px;
+      width: auto;
+      height: auto;
+      display: flex;
+    }
+
+    .stroke-1_26 {
+      position: absolute;
+      inset: 0px;
+      border-radius: 4px 4px 4px 4px;
+      border-width: 1px;
+      border-style: solid;
+      pointer-events: none;
+      box-sizing: border-box;
+      border-color: rgba(1, 153, 109, 1);
+    }
+
+    .Pixso-text-1_27 {
+      font-size: 20px;
+      font-family: "Lato-Regular";
+      font-weight: Regular;
+      text-align: center;
+      line-height: 25px;
+      color: rgba(255, 255, 255, 1);
+      width: auto;
+      height: auto;
+      position: relative;
+      flex-shrink: 0;
+      white-space: pre;
+      flex-grow: 0;
+    }
+
+    .Pixso-group-1_115 {
+      width: 2114px;
+      height: 85.5px;
+      position: absolute;
+      left: 0px;
+      top: 0px;
+    }
+
+    .Pixso-rectangle-1_8 {
+      width: 100%;
+      height: 99.42%;
+      position: absolute;
+      left: 0%;
+      right: 0%;
+      top: 0%;
+      bottom: 0.58%;
+      background-color: rgba(255, 255, 255, 1);
+    }
+
+    .Pixso-vector-1_17 {
+      width: 100%;
+      height: 1.17%;
+      background-image: url(./image/Line_1_17.png);
+      background-size: 100% 100%;
+      background-repeat: no-repeat;
+      position: absolute;
+      left: 0%;
+      right: 0%;
+      top: 100%;
+      bottom: -1.17%;
+    }
+
+    .Pixso-group-1_117 {
+      width: 613.2802124023438px;
+      height: 24px;
+      position: absolute;
+      left: 580.2489624023438px;
+      top: 30px;
+    }
+
+    .Pixso-text-1_9 {
+      font-size: 20px;
+      font-family: "Lato-Medium";
+      font-weight: Medium;
+      letter-spacing: 0em;
+      color: rgba(41.4375, 41.4375, 41.4375, 1);
+      width: 17.24%;
+      height: auto;
+      position: absolute;
+      left: 0%;
+      right: 82.76%;
+      top: 0%;
+      bottom: 0%;
+    }
+
+    .Pixso-text-1_10 {
+      font-size: 20px;
+      font-family: "Lato-Medium";
+      font-weight: Medium;
+      letter-spacing: 0em;
+      color: rgba(41.4375, 41.4375, 41.4375, 1);
+      width: 14.72%;
+      height: auto;
+      position: absolute;
+      left: 30.16%;
+      right: 55.12%;
+      top: 0%;
+      bottom: 0%;
+    }
+
+    .Pixso-text-1_11 {
+      font-size: 20px;
+      font-family: "Lato-Medium";
+      font-weight: Medium;
+      letter-spacing: 0em;
+      color: rgba(41.4375, 41.4375, 41.4375, 1);
+      width: 18.49%;
+      height: auto;
+      position: absolute;
+      left: 57.63%;
+      right: 23.88%;
+      top: 0%;
+      bottom: 0%;
+    }
+
+    .Pixso-text-1_12 {
+      font-size: 20px;
+      font-family: "Lato-Medium";
+      font-weight: Medium;
+      letter-spacing: 0em;
+      color: rgba(41.4375, 41.4375, 41.4375, 1);
+      width: 10.95%;
+      height: auto;
+      position: absolute;
+      left: 89.05%;
+      right: 0%;
+      top: 0%;
+      bottom: 0%;
+    }
+
+    .Pixso-vector-1_116 {
+      width: 4.15%;
+      height: 26.95%;
+      background-image: url(./image/Vector_1_116.png);
+      background-size: 100% 100%;
+      background-repeat: no-repeat;
+      position: absolute;
+      left: 14.32%;
+      right: 81.53%;
+      top: 35.46%;
+      bottom: 37.59%;
+    }
+
+    .Pixso-group-1_118 {
+      width: 304.988525390625px;
+      height: 51px;
+      position: absolute;
+      left: 1505.1240234375px;
+      top: 17px;
+    }
+
+    .Pixso-text-1_13 {
+      font-size: 20px;
+      font-family: "Lato-Regular";
+      font-weight: Regular;
+      letter-spacing: 0em;
+      color: rgba(0, 0, 0, 1);
+      width: 21.3%;
+      height: auto;
+      position: absolute;
+      left: 0%;
+      right: 78.7%;
+      top: 25.49%;
+      bottom: 27.45%;
+    }
+
+    .Pixso-frame-1_15 {
+      width: 100%;
+      height: 100%;
+      position: relative;
+      display: flex;
+      align-items: center;
+      border-radius: 4px 4px 4px 4px;
+      background-color: rgba(1, 153, 109, 1);
+    }
+
+    .frame-content-1_15 {
+      display: flex;
+      flex-direction: column;
+      gap: 30px;
+      align-items: center;
+      padding: 13px 50px 13px 50px;
+      width: 100%;
+      position: relative;
+    }
+
+    .stroke-wrapper-1_15 {
+      position: absolute;
+      left: 33.93%;
+      top: 0%;
+      right: 0%;
+      bottom: 0%;
+      width: 66.07%;
+      height: auto;
+      display: flex;
+    }
+
+    .stroke-1_15 {
+      position: absolute;
+      inset: 0px;
+      border-radius: 4px 4px 4px 4px;
+      border-width: 1px;
+      border-style: solid;
+      pointer-events: none;
+      box-sizing: border-box;
+      border-color: rgba(1, 153, 109, 1);
+    }
+
+    .Pixso-text-1_16 {
+      font-size: 20px;
+      font-family: "Lato-Regular";
+      font-weight: Regular;
+      text-align: center;
+      line-height: 25px;
+      color: rgba(255, 255, 255, 1);
+      width: auto;
+      height: auto;
+      position: relative;
+      flex-shrink: 0;
+      white-space: pre;
+      flex-grow: 0;
+    }
+
+    .Pixso-frame-7_2 {
+      width: auto;
+      height: auto;
+      position: relative;
+      flex-shrink: 0;
+      display: flex;
+      flex-direction: row;
+      align-items: flex-start;
+      padding: 0px 426px 0px 275px;
+    }
+
+    .Pixso-group-1_110 {
+      width: 1413px;
+      height: 1386px;
+      position: relative;
+      flex-shrink: 0;
+    }
+
+    .Pixso-group-1_119 {
+      width: 1391px;
+      height: 327px;
+      position: absolute;
+      left: 0px;
+      top: 0px;
+    }
+
+    .Pixso-text-1_64 {
+      font-size: 50px;
+      font-family: "Georgia-Bold";
+      font-weight: Bold;
+      letter-spacing: 0em;
+      line-height: 157.0000171661377%;
+      color: rgba(1, 153, 109, 1);
+      width: auto;
+      height: auto;
+      position: absolute;
+      left: 0px;
+      top: 35px;
+      white-space: pre;
+      flex-grow: 0;
+    }
+
+    .Pixso-text-1_65 {
+      font-size: 24px;
+      font-family: "Lato-SemiBold";
+      font-weight: SemiBold;
+      letter-spacing: 0em;
+      line-height: 157.0000171661377%;
+      color: rgba(65.875, 65.875, 65.875, 1);
+      width: auto;
+      height: auto;
+      position: absolute;
+      left: 0px;
+      top: 0px;
+      white-space: pre;
+      flex-grow: 0;
+    }
+
+    .Pixso-text-1_77 {
+      font-size: 20px;
+      font-family: "Lato-Medium";
+      font-weight: Medium;
+      letter-spacing: 0em;
+      line-height: 150%;
+      color: rgba(65.875, 65.875, 65.875, 1);
+      width: 671px;
+      height: 269px;
+      position: absolute;
+      left: 720px;
+      top: 58px;
+    }
+
+    .Pixso-group-1_78 {
+      width: 390px;
+      height: 937px;
+      position: absolute;
+      left: 0px;
+      top: 245px;
+    }
+
+    .Pixso-text-1_79 {
+      font-size: 20px;
+      font-family: "Lato-Medium";
+      font-weight: Medium;
+      letter-spacing: 0em;
+      line-height: 150%;
+      color: rgba(65.875, 65.875, 65.875, 1);
+      width: 382px;
+      height: auto;
+      position: absolute;
+      left: 0px;
+      top: 235px;
+    }
+
+    .Pixso-group-1_80 {
+      width: 323.9666748046875px;
+      height: 225px;
+      position: absolute;
+      left: 0px;
+      top: 0px;
+    }
+
+    .Pixso-group-1_81 {
+      width: 199.28854370117188px;
+      height: 45px;
+      position: absolute;
+      left: 124.67813110351562px;
+      top: 135px;
+    }
+
+    .Pixso-text-1_82 {
+      font-size: 30px;
+      font-family: "Georgia-Bold";
+      font-weight: Bold;
+      text-align: center;
+      letter-spacing: 0em;
+      line-height: 150%;
+      color: rgba(0, 0, 0, 1);
+      width: 100%;
+      height: auto;
+      position: absolute;
+      left: 0%;
+      right: 0%;
+      top: 0%;
+      bottom: 0%;
+    }
+
+    .Pixso-text-1_83 {
+      font-size: 150px;
+      font-family: "Georgia-Regular";
+      font-weight: Regular;
+      text-align: center;
+      letter-spacing: 0em;
+      line-height: 150%;
+      color: rgba(1, 153, 109, 0.20000000298023224);
+      width: auto;
+      height: auto;
+      position: absolute;
+      left: 0px;
+      top: 0px;
+      white-space: pre;
+      flex-grow: 0;
+    }
+
+    .Pixso-vector-1_84 {
+      width: 390px;
+      height: 492px;
+      background-image: url(./image/Rectangle_1_84.png);
+      background-size: 100% 100%;
+      background-repeat: no-repeat;
+      position: absolute;
+      left: 0px;
+      top: 445px;
+    }
+
+    .Pixso-vector-1_101 {
+      width: 185px;
+      height: 144px;
+      background-image: url(./image/Vector_1_101.png);
+      background-size: 100% 100%;
+      background-repeat: no-repeat;
+      position: absolute;
+      left: 205px;
+      top: 670px;
+    }
+
+    .Pixso-group-1_85 {
+      width: 508.4000244140625px;
+      height: 854px;
+      position: absolute;
+      left: 485px;
+      top: 532px;
+    }
+
+    .Pixso-text-1_86 {
+      font-size: 20px;
+      font-family: "Lato-Medium";
+      font-weight: Medium;
+      letter-spacing: 0em;
+      line-height: 150%;
+      color: rgba(65.875, 65.875, 65.875, 1);
+      width: 392px;
+      height: auto;
+      position: absolute;
+      left: 0px;
+      top: 235px;
+    }
+
+    .Pixso-group-1_87 {
+      width: 508.4000244140625px;
+      height: 225px;
+      position: absolute;
+      left: 0px;
+      top: 0px;
+    }
+
+    .Pixso-group-1_88 {
+      width: 344.62603759765625px;
+      height: 45px;
+      position: absolute;
+      left: 163.77398681640625px;
+      top: 135px;
+    }
+
+    .Pixso-text-1_89 {
+      font-size: 30px;
+      font-family: "Georgia-Bold";
+      font-weight: Bold;
+      text-align: center;
+      letter-spacing: 0em;
+      line-height: 150%;
+      color: rgba(0, 0, 0, 1);
+      width: 100%;
+      height: auto;
+      position: absolute;
+      left: 0%;
+      right: 0%;
+      top: 0%;
+      bottom: 0%;
+    }
+
+    .Pixso-text-1_90 {
+      font-size: 150px;
+      font-family: "Georgia-Regular";
+      font-weight: Regular;
+      text-align: center;
+      letter-spacing: 0em;
+      line-height: 150%;
+      color: rgba(1, 153, 109, 0.20000000298023224);
+      width: auto;
+      height: auto;
+      position: absolute;
+      left: 0px;
+      top: 0px;
+      white-space: pre;
+      flex-grow: 0;
+    }
+
+    .Pixso-rectangle-1_91 {
+      width: 390px;
+      height: 492px;
+      position: absolute;
+      left: 0px;
+      top: 362px;
+      border-radius: 12px 12px 12px 12px;
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-image: url(./image/96264fb99cc9f249742bb8d22d31683984d1f301.png);
+    }
+
+    .Pixso-group-1_92 {
+      width: 441px;
+      height: 856px;
+      position: absolute;
+      left: 972px;
+      top: 299px;
+    }
+
+    .Pixso-text-1_93 {
+      font-size: 20px;
+      font-family: "Lato-Medium";
+      font-weight: Medium;
+      letter-spacing: 0em;
+      line-height: 150%;
+      color: rgba(65.875, 65.875, 65.875, 1);
+      width: 441px;
+      height: auto;
+      position: absolute;
+      left: 0px;
+      top: 226px;
+    }
+
+    .Pixso-group-1_94 {
+      width: 375.5416259765625px;
+      height: 225px;
+      position: absolute;
+      left: 7px;
+      top: 0px;
+    }
+
+    .Pixso-group-1_95 {
+      width: 112.30615234375px;
+      height: 45px;
+      position: absolute;
+      left: 263.2354736328125px;
+      top: 135px;
+    }
+
+    .Pixso-text-1_96 {
+      font-size: 30px;
+      font-family: "Georgia-Bold";
+      font-weight: Bold;
+      text-align: center;
+      letter-spacing: 0em;
+      line-height: 150%;
+      color: rgba(0, 0, 0, 1);
+      width: 100%;
+      height: auto;
+      position: absolute;
+      left: 0%;
+      right: 0%;
+      top: 0%;
+      bottom: 0%;
+    }
+
+    .Pixso-text-1_97 {
+      font-size: 150px;
+      font-family: "Georgia-Regular";
+      font-weight: Regular;
+      text-align: center;
+      letter-spacing: 0em;
+      line-height: 150%;
+      color: rgba(1, 153, 109, 0.20000000298023224);
+      width: auto;
+      height: auto;
+      position: absolute;
+      left: 0px;
+      top: 0px;
+      white-space: pre;
+      flex-grow: 0;
+    }
+
+    .Pixso-vector-1_98 {
+      width: 390px;
+      height: 492px;
+      background-image: url(./image/Vector_1_98.png);
+      background-size: 100% 100%;
+      background-repeat: no-repeat;
+      position: absolute;
+      left: 6px;
+      top: 364px;
+    }
+
+    .Pixso-group-1_112 {
+      width: 1920px;
+      height: 922px;
+      position: relative;
+      flex-shrink: 0;
+    }
+
+    .Pixso-rectangle-1_4 {
+      width: 1920px;
+      height: 922px;
+      position: absolute;
+      left: 0px;
+      top: 0px;
+      background-color: rgba(36, 88, 82, 1);
+    }
+
+    .Pixso-group-1_28 {
+      width: 895.8433837890625px;
+      height: 516.1102905273438px;
+      position: absolute;
+      left: 818px;
+      top: 229px;
+    }
+
+    .Pixso-vector-1_29 {
+      width: 895.8433837890625px;
+      height: 516.1102905273438px;
+      background-image: url(./image/Rectangle_1_29.png);
+      background-size: 100% 100%;
+      background-repeat: no-repeat;
+      position: absolute;
+      left: 0px;
+      top: 0px;
+    }
+
+    .Pixso-rectangle-1_30 {
+      width: 895.8433837890625px;
+      height: 516.1102905273438px;
+      position: absolute;
+      left: 0px;
+      top: 0px;
+      border-radius: 16.332603454589844px 16.332603454589844px 16.332603454589844px 16.332603454589844px;
+      background-color: rgba(0, 0, 0, 0.20000000298023224);
+    }
+
+    .Pixso-frame-1_31 {
+      width: 80.84638977050781px;
+      height: 80.84638977050781px;
+      overflow: hidden;
+      position: absolute;
+      left: 409.9483642578125px;
+      top: 216.406982421875px;
+      background-color: transparent;
+    }
+
+    .Pixso-group-1_32 {
+      width: 100%;
+      height: 100%;
+      position: absolute;
+      left: 0%;
+      right: 0%;
+      top: 0%;
+      bottom: 0%;
+    }
+
+    .Pixso-group-1_33 {
+      width: 100%;
+      height: 100%;
+      position: absolute;
+      left: 0%;
+      right: 0%;
+      top: 0%;
+      bottom: 0%;
+    }
+
+    .Pixso-vector-1_34 {
+      width: 100%;
+      height: 100%;
+      background-image: url(./image/Group_1_34.png);
+      background-size: 100% 100%;
+      background-repeat: no-repeat;
+      position: absolute;
+      left: 0%;
+      right: 0%;
+      top: 0%;
+      bottom: 0%;
+    }
+
+    .Pixso-frame-1_60 {
+      width: 100%;
+      height: 100%;
+      position: relative;
+      display: flex;
+      flex-direction: column;
+      gap: 30px;
+      align-items: center;
+      padding: 20px 50px 20px 50px;
+      border-radius: 4px 4px 4px 4px;
+      background-color: rgba(1, 153, 109, 1);
+    }
+
+    .stroke-wrapper-1_60 {
+      position: absolute;
+      left: 207px;
+      top: 597px;
+      width: auto;
+      height: auto;
+      display: flex;
+    }
+
+    .stroke-1_60 {
+      position: absolute;
+      inset: 0px;
+      border-radius: 4px 4px 4px 4px;
+      border-width: 1px;
+      border-style: solid;
+      pointer-events: none;
+      box-sizing: border-box;
+      border-color: rgba(1, 153, 109, 1);
+    }
+
+    .Pixso-text-1_61 {
+      font-size: 20px;
+      font-family: "Lato-Regular";
+      font-weight: Regular;
+      line-height: 25px;
+      color: rgba(255, 255, 255, 1);
+      width: auto;
+      height: auto;
+      position: relative;
+      flex-shrink: 0;
+      white-space: pre;
+      flex-grow: 0;
+    }
+
+    .Pixso-group-1_74 {
+      width: 580px;
+      height: 230px;
+      position: absolute;
+      left: 207px;
+      top: 310px;
+    }
+
+    .Pixso-text-1_75 {
+      font-size: 50px;
+      font-family: "Georgia-Bold";
+      font-weight: Bold;
+      letter-spacing: 0em;
+      line-height: 157.0000171661377%;
+      color: rgba(255, 255, 255, 1);
+      width: 580px;
+      height: auto;
+      position: absolute;
+      left: 0px;
+      top: 0px;
+    }
+
+    .Pixso-text-1_76 {
+      font-size: 25px;
+      font-family: "Lato-SemiBold";
+      font-weight: SemiBold;
+      letter-spacing: 0em;
+      line-height: 157.0000171661377%;
+      color: rgba(255, 255, 255, 1);
+      width: auto;
+      height: auto;
+      position: absolute;
+      left: 0px;
+      top: 191px;
+      white-space: pre;
+      flex-grow: 0;
+    }
+
+    .Pixso-frame-7_5 {
+      width: auto;
+      height: auto;
+      position: relative;
+      flex-shrink: 0;
+      display: flex;
+      flex-direction: row;
+      align-items: flex-start;
+      padding: 0px 469px 0px 275px;
+    }
+
+    .Pixso-group-1_113 {
+      width: 1370px;
+      height: 648px;
+      position: relative;
+      flex-shrink: 0;
+    }
+
+    .Pixso-vector-1_38 {
+      width: 638.6902465820312px;
+      height: 573.259765625px;
+      background-image: url(./image/Vector_1_38.png);
+      background-size: 100% 100%;
+      background-repeat: no-repeat;
+      position: absolute;
+      left: 60.67681884765625px;
+      top: 0px;
+    }
+
+    .Pixso-vector-1_42 {
+      position: absolute;
+      inset: -4.9302262217160555% -6.116212047920615% -7.395297798090909% -6.116212047920615%;
+      background-image: url(./image/Group_1_42.png);
+      background-size: 100% 100%;
+      background-repeat: no-repeat;
+    }
+
+    .vector-wrapper-1_42 {
+      position: absolute;
+      left: 0px;
+      top: 354.098876953125px;
+      width: 296.13897705078125px;
+      height: 293.901123046875px;
+    }
+
+    .Pixso-group-1_66 {
+      width: 584px;
+      height: 413px;
+      position: absolute;
+      left: 786px;
+      top: 0px;
+    }
+
+    .Pixso-group-1_67 {
+      width: 227px;
+      height: 65px;
+      position: absolute;
+      left: 0px;
+      top: 348px;
+    }
+
+    .Pixso-frame-1_68 {
+      width: 100%;
+      height: 100%;
+      position: relative;
+      display: flex;
+      flex-direction: column;
+      gap: 30px;
+      align-items: center;
+      padding: 20px 50px 20px 50px;
+      border-radius: 4px 4px 4px 4px;
+      background-color: rgba(1, 153, 109, 1);
+    }
+
+    .stroke-wrapper-1_68 {
+      position: absolute;
+      left: 0px;
+      top: 0px;
+      width: auto;
+      height: auto;
+      display: flex;
+    }
+
+    .stroke-1_68 {
+      position: absolute;
+      inset: 0px;
+      border-radius: 4px 4px 4px 4px;
+      border-width: 1px;
+      border-style: solid;
+      pointer-events: none;
+      box-sizing: border-box;
+      border-color: rgba(1, 153, 109, 1);
+    }
+
+    .Pixso-text-1_69 {
+      font-size: 20px;
+      font-family: "Lato-Regular";
+      font-weight: Regular;
+      line-height: 25px;
+      color: rgba(255, 255, 255, 1);
+      width: auto;
+      height: auto;
+      position: relative;
+      flex-shrink: 0;
+      white-space: pre;
+      flex-grow: 0;
+    }
+
+    .Pixso-text-1_70 {
+      font-size: 20px;
+      font-family: "Lato-Regular";
+      font-weight: Regular;
+      letter-spacing: 0em;
+      color: rgba(0, 0, 0, 1);
+      width: 530px;
+      height: 81px;
+      position: absolute;
+      left: 0px;
+      top: 227px;
+    }
+
+    .Pixso-group-1_71 {
+      width: 584px;
+      height: 207px;
+      position: absolute;
+      left: 0px;
+      top: 0px;
+    }
+
+    .Pixso-text-1_72 {
+      font-size: 50px;
+      font-family: "Georgia-Bold";
+      font-weight: Bold;
+      letter-spacing: 0em;
+      line-height: 157.0000171661377%;
+      color: rgba(1, 153, 109, 1);
+      width: auto;
+      height: auto;
+      position: absolute;
+      left: 0px;
+      top: 49px;
+      white-space: pre;
+      flex-grow: 0;
+    }
+
+    .Pixso-text-1_73 {
+      font-size: 25px;
+      font-family: "Lato-SemiBold";
+      font-weight: SemiBold;
+      letter-spacing: 0em;
+      line-height: 157.0000171661377%;
+      color: rgba(65.875, 65.875, 65.875, 1);
+      width: auto;
+      height: auto;
+      position: absolute;
+      left: 0px;
+      top: 0px;
+      white-space: pre;
+      flex-grow: 0;
+    }
+
+    .Pixso-group-1_114 {
+      width: 1920px;
+      height: 654px;
+      position: relative;
+      flex-shrink: 0;
+    }
+
+    .Pixso-group-1_54 {
+      width: 1920px;
+      height: 654px;
+      position: absolute;
+      left: 0px;
+      top: 0px;
+    }
+
+    .Pixso-rectangle-1_55 {
+      width: 1920px;
+      height: 654px;
+      position: absolute;
+      left: 0px;
+      top: 0px;
+      background-color: rgba(36, 88, 82, 1);
+    }
+
+    .Pixso-text-1_56 {
+      font-size: 40px;
+      font-family: "Avenir-Black";
+      font-weight: Black;
+      letter-spacing: 0em;
+      color: rgba(255, 255, 255, 1);
+      width: 6.19%;
+      height: auto;
+      position: absolute;
+      left: 15.77%;
+      right: 78.04%;
+      top: 14.53%;
+      bottom: 77.06%;
+    }
+
+    .Pixso-text-1_57 {
+      font-size: 25px;
+      font-family: "Lato-SemiBold";
+      font-weight: SemiBold;
+      letter-spacing: 0em;
+      color: rgba(255, 255, 255, 1);
+      width: 6.94%;
+      height: auto;
+      position: absolute;
+      left: 15.77%;
+      right: 77.29%;
+      top: 32.11%;
+      bottom: 63.3%;
+    }
+
+    .Pixso-text-1_58 {
+      font-size: 25px;
+      font-family: "Lato-SemiBold";
+      font-weight: SemiBold;
+      letter-spacing: 0em;
+      color: rgba(255, 255, 255, 1);
+      width: 5.91%;
+      height: auto;
+      position: absolute;
+      left: 15.77%;
+      right: 78.32%;
+      top: 45.87%;
+      bottom: 49.54%;
+    }
+
+    .Pixso-text-1_59 {
+      font-size: 25px;
+      font-family: "Lato-SemiBold";
+      font-weight: SemiBold;
+      letter-spacing: 0em;
+      color: rgba(255, 255, 255, 1);
+      width: 7.4%;
+      height: auto;
+      position: absolute;
+      left: 15.77%;
+      right: 76.83%;
+      top: 59.63%;
+      bottom: 35.78%;
+    }
+
+    .Pixso-text-1_62 {
+      font-size: 25px;
+      font-family: "Lato-SemiBold";
+      font-weight: SemiBold;
+      letter-spacing: 0em;
+      color: rgba(255, 255, 255, 1);
+      width: 4.36%;
+      height: auto;
+      position: absolute;
+      left: 15.77%;
+      right: 79.87%;
+      top: 73.39%;
+      bottom: 22.02%;
+    }
