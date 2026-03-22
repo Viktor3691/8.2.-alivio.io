@@ -1,0 +1,185 @@
+/* 03 */
+
+position: absolute;
+width: 1920px;
+height: 922px;
+
+
+
+/* BG */
+
+position: absolute;
+width: 1920px;
+height: 922px;
+
+background: #245852;
+
+
+/* Video */
+
+position: absolute;
+width: 895.84px;
+height: 516.11px;
+
+
+
+/* Rectangle 8 */
+
+position: absolute;
+width: 895.84px;
+height: 516.11px;
+
+background: url(), #C4C4C4;
+border-radius: 16.3326px;
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 895.84px;
+height: 516.11px;
+
+background: rgba(0, 0, 0, 0.2);
+border-radius: 16.3326px;
+
+
+/* Icon/large/play-white */
+
+position: absolute;
+width: 80.85px;
+height: 80.85px;
+
+
+
+/* Group */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 37.5%;
+right: 29.17%;
+top: 29.17%;
+bottom: 29.17%;
+
+background: #FFFFFF;
+
+
+/* btn-primary */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 20px 50px;
+gap: 30px;
+
+position: absolute;
+width: 240px;
+height: 65px;
+
+background: #01996D;
+border: 1px solid #01996D;
+border-radius: 4px;
+
+
+/* 13:20:13:20 */
+
+width: 140px;
+height: 25px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 25px;
+/* identical to box height, or 125% */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Headline */
+
+position: absolute;
+width: 580px;
+height: 230px;
+
+
+
+/* Let's hear about Kayla's success story */
+
+position: absolute;
+width: 580px;
+height: 158px;
+
+font-family: 'Georgia';
+font-style: normal;
+font-weight: 700;
+font-size: 50px;
+line-height: 157%;
+/* or 79px */
+
+color: #FFFFFF;
+
+
+
+/* See how well Alivio works in a real customer’s life. */
+
+position: absolute;
+width: 550px;
+height: 39px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 157%;
+/* or 39px */
+
+color: #FFFFFF;
