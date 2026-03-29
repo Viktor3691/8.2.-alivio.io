@@ -625,33 +625,6 @@ line-height: 25px;
 color: #FFFFFF;
 }
 
-
-/* btn-primary */
-
-
-
-/* Auto layout */
-display: flex;
-
-
-
-/* 13:20:13:20 */
-
-
-
-
-/* Inside auto layout */
-flex: none;
-order: 0;
-flex-grow: 0;
-
-
-
-
-
-
-
-
     /* end  Part4*/
 
 .zero4 {
@@ -659,22 +632,6 @@ width: 1920px;
 height: 168px;
 background: rgba(0, 0, 0, 0.1), linear-gradient(138deg, #fff 0%, rgba(255, 255, 255, 0) 100%);
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
     /* beginning  footer*/
 .footer {
