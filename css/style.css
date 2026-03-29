@@ -43,7 +43,7 @@
 
     .container {
       width: 100%;
-      padding: 0 271px;
+      padding: 0 256px;
     }
 
 
@@ -518,7 +518,7 @@ background: rgba(0, 0, 0, 0.1), linear-gradient(138deg, #fff 0%, rgba(255, 255, 
     /* beginning   Part4*/
 .Part4 {
 width: 1920px;
-height: 815px;
+height: 650px;
 margin: 0 auto;
 }
 .Part4_common-flex {
@@ -538,7 +538,7 @@ margin: 0 auto;
     position: absolute;
 width: 297px;
 height: 294px;
-margin-top: 341px;
+margin-top: 334px;
 background-image: url(../images/P4Card.svg);
 }
 .Part4_box_text-flex {
